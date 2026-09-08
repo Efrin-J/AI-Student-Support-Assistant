@@ -1,0 +1,72 @@
+[
+  {
+    "role": "user",
+    "content": "Hi",
+    "at": "2026-09-08T18:19:17.595791"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I help you today?",
+    "at": "2026-09-08T18:19:17.595791"
+  },
+  {
+    "role": "user",
+    "content": "Are u an ai",
+    "at": "2026-09-08T18:19:26.985612"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m Campus Assist, an AI‑powered assistant here to help you with campus‑related questions and support. How can I assist you today?",
+    "at": "2026-09-08T18:19:26.985612"
+  },
+  {
+    "role": "user",
+    "content": "About Admission",
+    "at": "2026-09-08T18:19:46.427270"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m sorry, but I don’t have any official campus records on the admission process to refer to. If you need detailed admission information, you may want to check the college’s website or contact the admissions office directly. Let me know if there’s anything else I can help with!",
+    "at": "2026-09-08T18:19:46.427270"
+  },
+  {
+    "role": "user",
+    "content": "About Exams",
+    "at": "2026-09-08T18:20:17.467204"
+  },
+  {
+    "role": "assistant",
+    "content": "Here’s a quick overview of the college’s official exam regulations:\n\n| Topic | What the regulation says | Source |\n|-------|---------------------------|--------|\n| **Re‑Examination / Supplementary Exam Policy** | Students who meet the academic criteria can register for a supplementary or re‑examination after the regular exam period. Deadlines and any applicable fees are announced by the college each semester. | *Re‑Examination / Supplementary Exam Policy* (Regulation) |\n| **Code of Conduct — Examinations** | During exams you must follow all room instructions. Bringing unauthorized materials, communicating with others, or any other misconduct can result in disciplinary action. | *Code of Conduct — Examinations* (Regulation) |\n\nIf you need details for a particular course (e.g., exam dates, timings, or venue), just let me know the course code and I can pull the exact schedule for you.",
+    "at": "2026-09-08T18:20:17.467204"
+  },
+  {
+    "role": "user",
+    "content": "Do u know my name",
+    "at": "2026-09-08T18:21:59.291273"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, I have you on file as **Efrin J**. Let me know if there’s anything else you’d like help with!",
+    "at": "2026-09-08T18:21:59.291273"
+  },
+  {
+    "role": "user",
+    "content": "Hi",
+    "at": "2026-09-08T18:55:48.828100"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello again! How can I assist you today?",
+    "at": "2026-09-08T18:55:48.828100"
+  },
+  {
+    "role": "user",
+    "content": "Do u remember my name",
+    "at": "2026-09-08T18:56:01.341767"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, I have you recorded as **Efrin J**. Let me know what you need help with!",
+    "at": "2026-09-08T18:56:01.341767"
+  }
+]
